@@ -78,6 +78,7 @@ Ferramenta de drill-down para investigação de causas raiz, utilizando uma árv
 A arquitetura do projeto foi desenhada para suportar cruzamentos complexos entre quilometragem rodada e sinistros ocorridos.
 
 <img width="842" height="503" alt="relacionamentos" src="https://github.com/user-attachments/assets/2a980c3c-0865-4efa-86dd-4b2e97d50317" />
+
 *Figura 5: Modelo de Dados (Star Schema).*
 
 ### Entidades Principais:
